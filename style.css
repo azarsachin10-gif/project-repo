@@ -1,0 +1,30 @@
+
+body {
+    background-color: #101827;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin: 100px auto;
+    padding: 40px;
+    width: 60%;
+    background-color: #1e293b;
+    border-radius: 15px;
+}
+
+h1 {
+    color: #38bdf8;
+}
+
+h2 {
+    color: #22c55e;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    line-height: 2;
+}
+
